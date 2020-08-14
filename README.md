@@ -3,7 +3,9 @@ In this project, we try to deploy our flusk dased web on Kubernetes.
 
 ## Steps
 
-### 1. Use the example from https://github.com/edwardchang0112/FluskBasedWeb_RecommendationSystem_Popupshop, we have already built a flusk web, which involves pretained ML model and the connection to AWS RDS database(MSSQL) to extract user's history data and give users the customized recommendation (e.g. skincare solution in this example).
+### 1. Use an example 
+
+From https://github.com/edwardchang0112/FluskBasedWeb_RecommendationSystem_Popupshop, we have already built a flusk web, which involves pretained ML model and the connection to AWS RDS database(MSSQL) to extract user's history data and give users the customized recommendation (e.g. skincare solution in this example).
 
 ![image]()
 
