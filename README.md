@@ -7,6 +7,7 @@ In this project, we try to deploy our flusk dased web on Kubernetes.
 ![image]()
 
 2. Dockerize the project:
+
 (a) Make modification on Dockerfile
 $ docker build . -t popupshop_flusk_web (give a name you want)
 
