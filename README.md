@@ -16,7 +16,7 @@ Make modification on Dockerfile
 $ docker build . -t popupshop_flusk_web (give a name you want)
 
 ### 3. Deployment on Kubernetes:
-(a) Create a .yaml, which in this project is k8s.yaml. Remember that change all the port to fit your application. 
+(a) Create a .yaml, which in this project is kubernetes.yaml. Remember that change all the port to fit your application. 
 
 $ kubectl apply -f k8s.yaml
 
