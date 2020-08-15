@@ -1,5 +1,5 @@
 # FluskWebonKubernetes
-In this project shows you how to deploy our flusk dased web on Kubernetes.
+In this project shows you how to deploy our flusk based web on Kubernetes.
 
 ## Steps
 
